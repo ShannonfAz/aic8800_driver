@@ -29,7 +29,9 @@
 
   使用方法：
 
-  将俩驱动下载到电脑上
+  点进仓库里的aic8800_fdrv.ko和aic8800_bsp.ko,点击右边的下载键
+
+  分别将俩驱动下载到电脑上
 
   用mobaxterm网线ssh连接到99派，左边界面切到/usr/lib/modules/4.19.190+，里面应该能看见aic8800_fdrv.ko和aic8800_bsp.ko
 
